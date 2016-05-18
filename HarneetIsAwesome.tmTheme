@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>HarneetIsAwesome : Based on Tomorrow theme</string>
+	<string>Based on Tomorroe theme</string>
 	<key>name</key>
 	<string>HarneetIsAwesome</string>
 	<key>settings</key>
@@ -97,7 +97,23 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C82829</string>
+				<!-- <string>#C82829</string> -->
+				<string>#AD1457</string>
+			</dict>
+		</dict>
+	
+		<dict>
+			<key>name</key>
+			<string>HTML Attributes</string>
+			<key>scope</key>
+			<string>meta.attribute-with-value.id.html,entity.other.attribute-name.id.html,meta.attribute-with-value.class.html,entity.other.attribute-name.class.html,entity.other.attribute-name.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<!-- <string>#C82829</string> -->
+				<string>#D81B60</string>
 			</dict>
 		</dict>
 		<dict>
