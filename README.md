@@ -3,6 +3,8 @@ HarneetIsAwesome is a light colored color scheme for ST 3 . It is based on the e
 
 What is different ?
 1. Function Names are in italics as are comments. 
+2. Cursor color is different.
+3. Selected text forecolor is different.
 
 
 
